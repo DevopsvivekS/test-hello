@@ -3,7 +3,7 @@ package com.acme.basic;
 public class HelloWorld {
 
   void sayHello() {
-    System.out.println("Welcome to git training!");
+    System.out.println("Welcome to github training!");
   }
 
   void notCovered() {
